@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Wandellca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wandellca&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide_border=false&border_color=FAF5F4&theme=codeSTACKr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandellca&layout=compact&show_owner=true&theme=vision-friendly-dark"/>
+  <img height="155em" width="125em" src="https://github-readme-stats.vercel.app/api?username=Wandellca&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide_border=false&border_color=FAF5F4&theme=codeSTACKr"/>
+  <img height="155em" width="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandellca&layout=compact&show_owner=true&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wandell-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
